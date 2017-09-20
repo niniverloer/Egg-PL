@@ -34,7 +34,7 @@ test it by running : Egg.autoBuild("define(x,1);print(x)");
 >Note: Egg-PL works only with functions!
 >Example : define(variable,value) instead of var variable=value;
  
-EggEnvironement['<localScopeName>']['<local variable>']
+EggEnvironement['localScopeName']['localVariable']
 >e.g : EggEnvironement["0"]["x"]=12 
 >This means that x is a var in the first local scope (first memory range) and equals to 12;
 >Now we could export local scope in global variables by the define function;
