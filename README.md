@@ -26,7 +26,7 @@ test it by running : Egg.autoBuild("define(x,1);print(x)");
 # 3 ways to improve this language *(Make it your own PL)   : 
 - Add more environement functions (All Egg-PL functionality depends on this)
 - Create a built-in Error Tracking Module;
-- Create a bridge integration for NodeJS and Result Fetching Module;
+- Create a bridge integration for NodeJS and a Result Fetching Module;
     
 # How is Egg-PL built ?
 1. EggDataStructure	: Helps to create the syntax tree with its constructor data structure;
