@@ -20,7 +20,7 @@ The three main parts of a programming language
 
 # How to use it
  - Import Egg-PL
-    You can open a browser console or NodeJS and just copy/paste in the codesource of Egg-PL (Egg-PL.js)! Everything is done!
+    You can open a browser console or NodeJS and just copy/paste in the codesource of Egg-PL (Egg.js)! Everything is done!
 test it by running : Egg.autoBuild("define(x,1);print(x)");
 
 # 3 ways to improve this language *(Make it your own PL)   : 
