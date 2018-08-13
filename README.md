@@ -1,30 +1,29 @@
 # Egg Programming Language
-Programming Language based on Javascript
-Version : 1.0.0
+Programming Language based on Javascript\
+Version : 1.0.0\
 Author : David Niverloer
 
 # Platform
-- NodeJS
-- Browser Console
-You can also run it by your own EggPL-UI
+- NodeJS\
+- Browser Console\
+You can also run it in your own EggPL-UI
 
 # What's Egg ?
 
-Egg is an example of creating a basic programming language with javascript.
-Egg is not to include in the application for production, but simply to develop your understanding of javascript objects. As mentioned    earlier, this is an example
-
+Egg is an example of creating a basic programming language based on Javascript Objects.\
+\
 The three main parts of a programming language
-- Structure of data (information / syntax / task)
-- Syntax analyzer (process)
+- Data Structure (information / syntax / task)
+- Syntax Analyzer (process)
 - Environment (memory)
 
 # How to use it
- - Import Egg-PL
-    You can open a browser console or NodeJS and just copy/paste in the codesource of Egg-PL (Egg.js), All is done!
-test it by running : Egg.autoBuild("define(x,1);print(x)");
+ - Import Egg-PL\
+    Include Egg.js in a new or existing project, You are done!\
+Test it by running : Egg.autoBuild("define(x,1);print(x)");
 
 # 3 ways to improve this language *(Make it your own PL)   : 
-- Add more environement functions (All Egg-PL functionality depends on this)
+- Add more environement functions (All Egg-PL functionality depends on *functions)
 - Create a built-in Error Tracking Module;
 - Create a bridge integration for NodeJS and a Result Fetching Module;
     
