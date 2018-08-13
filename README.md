@@ -4,7 +4,7 @@ Version : 1.0.0\
 Author : David Niverloer
 
 # Platform
-- NodeJS\
+- NodeJS
 - Browser Console\
 You can also run it in your own EggPL-UI
 
@@ -12,7 +12,7 @@ You can also run it in your own EggPL-UI
 
 Egg is an example of creating a basic programming language based on Javascript Objects.\
 \
-The three main parts of a programming language
+It implements the 3 most important parts of an interpreted programming language :
 - Data Structure (information / syntax / task)
 - Syntax Analyzer (process)
 - Environment (memory)
