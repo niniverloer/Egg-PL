@@ -2,8 +2,9 @@
 	Egg Programming Language Module 
 	Version 1.0
 	Wrote By David Mulumeoderhwa Manegabe
-	davidniverloer@gmail.com
+	david@niverloer.me
 	(C) NIVERLOER, Avril 2017
+	https://niverloer.me
 	Lincesing Under : MIT-License
 	
 	Example : Egg.autoBuild("define(x,1);print(x)");
